@@ -136,9 +136,15 @@ Research-oriented Data Scientist with 4+ years of experience implementing statis
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=lenkalapellypraveen&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenkalapellypraveen&layout=compact&theme=radical" alt="Top Languages" height="170">
 </div>
+🏆 Recent Activity
+
+📊 Created 31 commits across my repositories
+🔄 Opened 8 pull requests which were successfully merged
+🏗️ Established 6 repositories showcasing my data science and machine learning projects
+💼 Actively maintaining portfolio of data science and ML implementations
 
 ## 🎓 Education & Certifications
 
