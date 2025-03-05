@@ -1,7 +1,7 @@
 # Hi there, I'm Praveen Lenkalapelly 👋
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Data%20Scientist-blue?style=for-the-badge" alt="Data Scientist Badge"/>
+  <img src="https://img.shields.io/badge/-Data%20Scientist-#2062B0?style=for-the-badge" alt="Data Scientist Badge"/>
   <img src="https://img.shields.io/badge/-Data%20Engineer-orange?style=for-the-badge" alt="Machine Learning Badge"/>
   <img src="https://img.shields.io/badge/-AI%20Engineer-gray?style=for-the-badge" alt="Deep Learning Badge"/>
   <img src="https://img.shields.io/badge/-Machine%20Learning%20Engineer-orange?style=for-the-badge" alt="Machine Learning Badge"/>
