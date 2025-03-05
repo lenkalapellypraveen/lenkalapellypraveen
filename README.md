@@ -12,8 +12,8 @@
 
 Research-oriented Data Scientist with 4+ years of experience implementing statistical models and ML algorithms across healthcare and financial sectors. Proficient in Python, mathematical modeling, and cloud technologies with proven success translating complex data into actionable insights for cross-functional teams.
 
-- 🔬 Current Project: Exploring a personalized recommendation system using LLMs and retrieval-augmented generation for domain-specific applications
-- 🚀 Current learnings: GenAI, Agentic AI frameworks, and prompt engineering for enterprise data applications
+- 🔬 I'm currently working on a personalized recommendation system using LLMs and retrieval-augmented generation for domain-specific applications
+- 🚀 I'm learning GenAI, Agentic AI frameworks, and prompt engineering for enterprise data applications
 - 🤝 I'm looking to collaborate on open-source healthcare and financial ML projects
 - 💡 Ask me about: Advanced ML modeling, Python data stack, statistical analysis, NLP, and data pipeline optimization
 - 📧 How to reach me: [praveen.lenkalapelly@gmail.com](mailto:praveen.lenkalapelly@gmail.com)
