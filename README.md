@@ -172,17 +172,39 @@ Research-oriented Data Scientist with 4+ years of experience implementing statis
 </div>
 
 ## 📈 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lenkalapellypraveen&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenkalapellypraveen&layout=compact&theme=radical" alt="Top Languages" height="170">
+  
+  <!-- GitHub Stats Card with auto-update -->
+  <a href="https://github.com/lenkalapellypraveen">
+    <img alt="Praveen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lenkalapellypraveen&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" height="170"/>
+  </a>
+  
+  <!-- Most Used Languages Card with auto-update -->
+  <a href="https://github.com/lenkalapellypraveen">
+    <img alt="Praveen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenkalapellypraveen&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170"/>
+  </a>
+  
+  <!-- GitHub Contribution Graph with auto-update -->
+  <a href="https://github.com/lenkalapellypraveen">
+    <img alt="Praveen's Contribution Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lenkalapellypraveen&theme=radical"/>
+  </a> 
+  
+  <!-- GitHub Streak Stats with auto-update - Fixed URL 
+  <a href="https://github.com/lenkalapellypraveen">
+    <img alt="Praveen's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=lenkalapellypraveen&theme=radical&hide_border=true"/>
+  </a> -->
+  
+  <!-- Wakatime Stats - Only include if you have a WakaTime account properly set up -->
+  <!-- Uncomment this section once your WakaTime profile is properly configured
+  <a href="https://github.com/lenkalapellypraveen">
+    <img alt="Praveen's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=lenkalapellypraveen&theme=radical&hide_border=true"/>
+  </a>
+  -->
 </div>
-🏆 Recent Activity
 
-📊 Created 31 commits across my repositories
-🔄 Opened 8 pull requests which were successfully merged
-🏗️ Established 6 repositories showcasing my data science and machine learning projects
-💼 Actively maintaining portfolio of data science and ML implementations
+## 🏆 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## 🎓 Education & Certifications
 
