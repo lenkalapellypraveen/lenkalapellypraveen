@@ -2,9 +2,10 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Data%20Scientist-blue?style=for-the-badge" alt="Data Scientist Badge"/>
-  <img src="https://img.shields.io/badge/-Machine%20Learning-orange?style=for-the-badge" alt="Machine Learning Badge"/>
-  <img src="https://img.shields.io/badge/-Deep%20Learning-red?style=for-the-badge" alt="Deep Learning Badge"/>
-  <img src="https://img.shields.io/badge/-Cloud%20Engineering-green?style=for-the-badge" alt="Cloud Engineering Badge"/>
+  <img src="https://img.shields.io/badge/-Data%20Engineer-orange?style=for-the-badge" alt="Machine Learning Badge"/>
+  <img src="https://img.shields.io/badge/-Machine%20Learning%20Engineer-orange?style=for-the-badge" alt="Machine Learning Badge"/>
+  <img src="https://img.shields.io/badge/-AI%20Engineer-red?style=for-the-badge" alt="Deep Learning Badge"/>
+  <img src="https://img.shields.io/badge/-Cloud%20Engineer-green?style=for-the-badge" alt="Cloud Engineering Badge"/>
 </div>
 
 ## 📊 About Me
