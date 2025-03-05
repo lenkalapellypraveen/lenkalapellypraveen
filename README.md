@@ -174,9 +174,15 @@ Research-oriented Data Scientist with 4+ years of experience implementing statis
 ## 📈 GitHub Stats
 <div align="center">
   
-  <!-- GitHub Stats Card with auto-update -->
+  <!-- GitHub Stats Card with auto-update 
   <a href="https://github.com/lenkalapellypraveen">
     <img alt="Praveen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lenkalapellypraveen&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" height="170"/>
+  </a> -->
+
+  <!-- GitHub Profile Summary -->
+  <a href="https://github.com/lenkalapellypraveen">
+    <img alt="Praveen's Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lenkalapellypraveen&theme=radical" />
+    <img alt="Praveen's Commits By Hour" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lenkalapellypraveen&theme=radical" />
   </a>
   
   <!-- Most Used Languages Card with auto-update -->
@@ -184,10 +190,10 @@ Research-oriented Data Scientist with 4+ years of experience implementing statis
     <img alt="Praveen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenkalapellypraveen&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170"/>
   </a>
   
-  <!-- GitHub Contribution Graph with auto-update -->
+  <!-- GitHub Contribution Graph with auto-update 
   <a href="https://github.com/lenkalapellypraveen">
     <img alt="Praveen's Contribution Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lenkalapellypraveen&theme=radical"/>
-  </a> 
+  </a> --> 
   
   <!-- GitHub Streak Stats with auto-update - Fixed URL 
   <a href="https://github.com/lenkalapellypraveen">
