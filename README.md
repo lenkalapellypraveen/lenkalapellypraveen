@@ -16,7 +16,7 @@ Research-oriented Data Scientist with 4+ years of experience implementing statis
 - 🚀 I'm learning GenAI, Agentic AI frameworks, and prompt engineering for enterprise data applications
 - 🤝 I'm looking to collaborate on open-source healthcare and financial ML projects
 - 💡 Ask me about: Advanced ML modeling, Python data stack, statistical analysis, NLP, and data pipeline optimization
-- 📧 How to reach me: [praveen.lenkalapelly@gmail.com](mailto:praveen.lenkalapelly@gmail.com)
+- 📧 How to reach me: [praveen.lenkalapelly@gmail.com](mailto:praveen.lenkalapelly9@gmail.com)
 - <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> Connect: [LinkedIn](https://www.linkedin.com/in/praveen-lenkalapelly/) | Let's discuss data science opportunities!
 
 ## 🚀 Featured Projects
