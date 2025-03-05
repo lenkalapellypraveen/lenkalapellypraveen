@@ -26,7 +26,7 @@ Research-oriented Data Scientist with 4+ years of experience implementing statis
     <td width="50%" valign="top">
       <h3 align="center">Genomic Ancestry Prediction System</h3>
       <div align="center">
-        <a href="https://github.com/lenkalapellypraveen/genomic-ancestry-prediction" target="_blank">
+        <a href="https://github.com/lenkalapellypraveen/Genomic-Ancestry-Prediction-through-Advanced-Machine-Learning-Integration" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-View%20Code-blue?style=for-the-badge&logo=github" alt="GitHub Badge">
         </a>
       </div>
