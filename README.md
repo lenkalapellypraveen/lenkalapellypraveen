@@ -210,6 +210,11 @@ Research-oriented Data Scientist with 4+ years of experience implementing statis
 
 ## 🏆 Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/lenkalapellypraveen/Automated-Brain-Tumor-Segmentation-and-Detection-Using-Deep-Neural-Networks-on-FLAIR-MRI/pull/2) in [lenkalapellypraveen/Automated-Brain-Tumor-Segmentation-and-Detection-Using-Deep-Neural-Networks-on-FLAIR-MRI](https://github.com/lenkalapellypraveen/Automated-Brain-Tumor-Segmentation-and-Detection-Using-Deep-Neural-Networks-on-FLAIR-MRI)
+2. 💪 Opened PR [#2](https://github.com/lenkalapellypraveen/Automated-Brain-Tumor-Segmentation-and-Detection-Using-Deep-Neural-Networks-on-FLAIR-MRI/pull/2) in [lenkalapellypraveen/Automated-Brain-Tumor-Segmentation-and-Detection-Using-Deep-Neural-Networks-on-FLAIR-MRI](https://github.com/lenkalapellypraveen/Automated-Brain-Tumor-Segmentation-and-Detection-Using-Deep-Neural-Networks-on-FLAIR-MRI)
+3. 🎉 Merged PR [#1](https://github.com/lenkalapellypraveen/DataScience_Classification_Usecases/pull/1) in [lenkalapellypraveen/DataScience_Classification_Usecases](https://github.com/lenkalapellypraveen/DataScience_Classification_Usecases)
+4. 💪 Opened PR [#1](https://github.com/lenkalapellypraveen/DataScience_Classification_Usecases/pull/1) in [lenkalapellypraveen/DataScience_Classification_Usecases](https://github.com/lenkalapellypraveen/DataScience_Classification_Usecases)
+5. 🎉 Merged PR [#2](https://github.com/lenkalapellypraveen/Real-Time-Weather-prediction-with-API-Integration/pull/2) in [lenkalapellypraveen/Real-Time-Weather-prediction-with-API-Integration](https://github.com/lenkalapellypraveen/Real-Time-Weather-prediction-with-API-Integration)
 <!--END_SECTION:activity-->
 
 ## 🎓 Education & Certifications
