@@ -26,7 +26,7 @@ Research-oriented Data Scientist with 4+ years of experience implementing statis
     <td width="50%" valign="top">
       <h3 align="center">Genomic Ancestry Prediction System</h3>
       <div align="center">
-        <a href="https://github.com/yourusername/genomic-ancestry-prediction" target="_blank">
+        <a href="https://github.com/lenkalapellypraveen/genomic-ancestry-prediction" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-View%20Code-blue?style=for-the-badge&logo=github" alt="GitHub Badge">
         </a>
       </div>
@@ -39,19 +39,19 @@ Research-oriented Data Scientist with 4+ years of experience implementing statis
       <p><strong>Tech Stack:</strong> Python, NumPy, Scikit-learn, Matplotlib, Custom Gradient Descent</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Brain Tumor Segmentation & Detection</h3>
+      <h3 align="center">Credit Card Balance Prediction</h3>
       <div align="center">
-        <a href="https://github.com/yourusername/brain-tumor-detection" target="_blank">
+        <a href="https://github.com/yourusername/credit-balance-prediction" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-View%20Code-blue?style=for-the-badge&logo=github" alt="GitHub Badge">
         </a>
       </div>
       <p align="center">
-        <img src="https://raw.githubusercontent.com/yourusername/brain-tumor-detection/main/images/tumor_segmentation.png" width="100%"  alt="Brain Tumor Detection"/>
+        <img src="https://raw.githubusercontent.com/yourusername/credit-balance-prediction/main/images/credit_prediction.png" width="100%"  alt="Credit Balance Prediction"/>
       </p>
       <p>
-        U-Net based deep learning model for automated segmentation of brain tumors from FLAIR MRI images. Implemented with custom loss functions to handle class imbalance, deployed as a Flask API.
+        Regularization-based regression analysis to predict credit card balances. Implemented Elastic Net, Ridge, and Lasso regression with hyperparameter tuning, achieving R² values above 0.95.
       </p>
-      <p><strong>Tech Stack:</strong> TensorFlow, Keras, Flask, OpenCV, Superpixel Technology</p>
+      <p><strong>Tech Stack:</strong> Python, Pandas, Scikit-learn, Regularization Techniques, Statistical Modeling</p>
     </td>
   </tr>
   <tr>
@@ -71,19 +71,19 @@ Research-oriented Data Scientist with 4+ years of experience implementing statis
       <p><strong>Tech Stack:</strong> Python, Scikit-learn, AWS Lambda, REST APIs, Pandas, Matplotlib</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Credit Card Balance Prediction</h3>
+      <h3 align="center">Brain Tumor Segmentation & Detection</h3>
       <div align="center">
-        <a href="https://github.com/yourusername/credit-balance-prediction" target="_blank">
+        <a href="https://github.com/yourusername/brain-tumor-detection" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-View%20Code-blue?style=for-the-badge&logo=github" alt="GitHub Badge">
         </a>
       </div>
       <p align="center">
-        <img src="https://raw.githubusercontent.com/yourusername/credit-balance-prediction/main/images/credit_prediction.png" width="100%"  alt="Credit Balance Prediction"/>
+        <img src="https://raw.githubusercontent.com/yourusername/brain-tumor-detection/main/images/tumor_segmentation.png" width="100%"  alt="Brain Tumor Detection"/>
       </p>
       <p>
-        Regularization-based regression analysis to predict credit card balances. Implemented Elastic Net, Ridge, and Lasso regression with hyperparameter tuning, achieving R² values above 0.95.
+        U-Net based deep learning model for automated segmentation of brain tumors from FLAIR MRI images. Implemented with custom loss functions to handle class imbalance, deployed as a Flask API.
       </p>
-      <p><strong>Tech Stack:</strong> Python, Pandas, Scikit-learn, Regularization Techniques, Statistical Modeling</p>
+      <p><strong>Tech Stack:</strong> TensorFlow, Keras, Flask, OpenCV, Superpixel Technology</p>
     </td>
   </tr>
 </table>
