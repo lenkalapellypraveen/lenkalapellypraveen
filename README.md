@@ -41,7 +41,7 @@ Research-oriented Data Scientist with 4+ years of experience implementing statis
     <td width="50%" valign="top">
       <h3 align="center">Credit Card Balance Prediction</h3>
       <div align="center">
-        <a href="https://github.com/yourusername/credit-balance-prediction" target="_blank">
+        <a href="https://github.com/lenkalapellypraveen/Credit-Balance-Predictor-Optimizing-Financial-Risk-Assessment-with-Regularized-Regression" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-View%20Code-blue?style=for-the-badge&logo=github" alt="GitHub Badge">
         </a>
       </div>
@@ -58,7 +58,7 @@ Research-oriented Data Scientist with 4+ years of experience implementing statis
     <td width="50%" valign="top">
       <h3 align="center">Real-Time Weather Prediction System</h3>
       <div align="center">
-        <a href="https://github.com/yourusername/weather-prediction" target="_blank">
+        <a href="https://github.com/lenkalapellypraveen/Real-Time-Weather-prediction-with-API-Integration" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-View%20Code-blue?style=for-the-badge&logo=github" alt="GitHub Badge">
         </a>
       </div>
@@ -73,7 +73,7 @@ Research-oriented Data Scientist with 4+ years of experience implementing statis
     <td width="50%" valign="top">
       <h3 align="center">Brain Tumor Segmentation & Detection</h3>
       <div align="center">
-        <a href="https://github.com/yourusername/brain-tumor-detection" target="_blank">
+        <a href="https://github.com/lenkalapellypraveen/Automated-Brain-Tumor-Segmentation-and-Detection-Using-Deep-Neural-Networks-on-FLAIR-MRI" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-View%20Code-blue?style=for-the-badge&logo=github" alt="GitHub Badge">
         </a>
       </div>
