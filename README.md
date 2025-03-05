@@ -12,13 +12,13 @@
 
 Research-oriented Data Scientist with 4+ years of experience implementing statistical models and ML algorithms across healthcare and financial sectors. Proficient in Python, mathematical modeling, and cloud technologies with proven success translating complex data into actionable insights for cross-functional teams.
 
-- 🔬 I'm currently working on a personalized recommendation system using LLMs and retrieval-augmented generation for domain-specific applications
-- 🚀 I'm learning GenAI, Agentic AI frameworks, and prompt engineering for enterprise data applications
-- 🤝 I'm looking to collaborate on open-source healthcare and financial ML projects
-- 💡 Ask me about: Advanced ML modeling, Python data stack, statistical analysis, NLP, and data pipeline optimization
-- 📧 How to reach me: [praveen.lenkalapelly9@gmail.com](mailto:praveen.lenkalapelly9@gmail.com)
-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> Connect: [LinkedIn](https://www.linkedin.com/in/praveen-lenkalapelly/) | Let's discuss data science opportunities!
-
+- 🔭 I'm currently working on a personalized recommendation system using LLMs and retrieval-augmented generation with LangChain and vector databases (Pinecone, Weaviate) for domain-specific applications.
+- 🌱 I'm learning GenAI, Agentic AI frameworks, LLM fine-tuning with PEFT/LoRA, and prompt engineering for enterprise data applications.
+- 👯 I'm looking to collaborate on open-source healthcare and financial ML projects utilizing multimodal models and real-time serving architectures.
+- 💬 Ask me about Advanced ML modeling, MLOps best practices, Python data stack, statistical analysis, NLP, and data pipeline optimization.
+- 📩 How to reach me: [praveen.lenkalapelly9@gmail.com](mailto:praveen.lenkalapelly9@gmail.com)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="16" height="16" style="vertical-align: text-bottom;"> Connect: [LinkedIn](https://www.linkedin.com/in/praveen-lenkalapelly/) | Let's discuss data science opportunities!
+  
 ## 🚀 Featured Projects
 
 <table>
