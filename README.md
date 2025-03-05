@@ -31,7 +31,7 @@ Research-oriented Data Scientist with 4+ years of experience implementing statis
         </a>
       </div>
       <p align="center">
-        <img src="https://raw.githubusercontent.com/yourusername/genomic-ancestry-prediction/main/images/ancestry_model.png" width="100%"  alt="Genomic Ancestry Model"/>
+        <img src="https://scitechdaily.com/images/Researchers-Optimize-Genetic-Tests-for-Diverse-Populations-To-Tackle-Health-Disparities.jpg" width="100%"  alt="Genomic Ancestry Model"/>
       </p>
       <p>
         Custom Ridge Logistic Regression model for ancestry prediction using 50,000+ SNP genomic data. Implements advanced regularization with k-fold cross-validation, achieving 20% higher predictive accuracy than standard approaches.
@@ -46,7 +46,7 @@ Research-oriented Data Scientist with 4+ years of experience implementing statis
         </a>
       </div>
       <p align="center">
-        <img src="https://raw.githubusercontent.com/yourusername/credit-balance-prediction/main/images/credit_prediction.png" width="100%"  alt="Credit Balance Prediction"/>
+        <img src="https://github.com/lenkalapellypraveen/Project_images/blob/main/credit_card_image.jpg" width="100%"  alt="Credit Balance Prediction"/>
       </p>
       <p>
         Regularization-based regression analysis to predict credit card balances. Implemented Elastic Net, Ridge, and Lasso regression with hyperparameter tuning, achieving R² values above 0.95.
@@ -63,7 +63,7 @@ Research-oriented Data Scientist with 4+ years of experience implementing statis
         </a>
       </div>
       <p align="center">
-        <img src="https://raw.githubusercontent.com/yourusername/weather-prediction/main/images/weather_forecast.png" width="100%"  alt="Weather Prediction"/>
+        <img src="https://github.com/lenkalapellypraveen/Project_images/blob/main/Weather_Prediction_image.jpg" width="100%"  alt="Weather Prediction"/>
       </p>
       <p>
         Linear Regression ensemble for weather forecasting with API integration. Processes 5+ years of historical time-series data, improving forecast precision by 18% and accuracy by 27%.
@@ -78,7 +78,7 @@ Research-oriented Data Scientist with 4+ years of experience implementing statis
         </a>
       </div>
       <p align="center">
-        <img src="https://raw.githubusercontent.com/yourusername/brain-tumor-detection/main/images/tumor_segmentation.png" width="100%"  alt="Brain Tumor Detection"/>
+        <img src="https://github.com/lenkalapellypraveen/Project_images/blob/main/Brain_Tumor_image.png" width="100%"  alt="Brain Tumor Detection"/>
       </p>
       <p>
         U-Net based deep learning model for automated segmentation of brain tumors from FLAIR MRI images. Implemented with custom loss functions to handle class imbalance, deployed as a Flask API.
