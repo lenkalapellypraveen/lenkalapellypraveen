@@ -224,22 +224,21 @@ Research-oriented Data Scientist with 4+ years of experience implementing statis
 
 <div align="center">
   
-  [![Azure Data Scientist Associate](https://img.shields.io/badge/Microsoft-Azure%20Data%20Scientist%20Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://www.credential.net/)
-  [![Databricks Lakehouse Platform](https://img.shields.io/badge/Databricks-Lakehouse%20Platform-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://www.credential.net/)
-  [![Neo4j Certified Professional](https://img.shields.io/badge/Neo4j-Certified%20Professional-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)](https://www.credential.net/)
-  
+  [![Azure Data Scientist Associate](https://img.shields.io/badge/Microsoft-Azure%20Data%20Scientist%20Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://drive.google.com/file/d/1afT5f_o1wR9SNVJKyrGDoxKqC26mg0UV/view)
+  [![Databricks Lakehouse Platform](https://img.shields.io/badge/Databricks-Lakehouse%20Platform-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://drive.google.com/file/d/1AXBM1AV8wi3LVV6ivrXXOwtvVBvTRG3v/view)
+  [![Neo4j Certified Professional](https://img.shields.io/badge/Neo4j-Certified%20Professional-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)](https://drive.google.com/file/d/1sNrxTUDEcWGc50gRWufBqfkiMaZ2ekwR/view)
+  [![Azure Data Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20Data%20Fundamentals-2560E0?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://drive.google.com/file/d/1Y1MH6WYgCGW2iRk9vtAFrygmYReHIyr5/view)
+  [![Excel Purple Belt](https://img.shields.io/badge/McGraw%20Hill-Excel%20Purple%20Belt-7B68EE?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://certificates.simnetonline.com/b5e9a08c-97df-4d3a-8315-f2701a01d7fb#acc.pkXJMwcx)
+      
 </div>
 
+<!--
 ## 🔍 Currently Exploring
 
 - 🧠 Reinforcement Learning algorithms for decision optimization
 - 🌐 Graph Neural Networks for complex relationship modeling
 - 📊 Explainable AI techniques for healthcare applications
 - 🔄 MLOps practices for model deployment and monitoring
+-->
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile views counter"/>
-  <h4>Let's connect and build something amazing together!</h4>
-</div>
