@@ -210,11 +210,11 @@ Research-oriented Data Scientist with 4+ years of experience implementing statis
 
 ## 🏆 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/lenkalapellypraveen/Portfolio_Praveen/pull/3) in [lenkalapellypraveen/Portfolio_Praveen](https://github.com/lenkalapellypraveen/Portfolio_Praveen)
-2. 💪 Opened PR [#3](https://github.com/lenkalapellypraveen/Portfolio_Praveen/pull/3) in [lenkalapellypraveen/Portfolio_Praveen](https://github.com/lenkalapellypraveen/Portfolio_Praveen)
-3. 🎉 Merged PR [#2](https://github.com/lenkalapellypraveen/Portfolio_Praveen/pull/2) in [lenkalapellypraveen/Portfolio_Praveen](https://github.com/lenkalapellypraveen/Portfolio_Praveen)
-4. 💪 Opened PR [#2](https://github.com/lenkalapellypraveen/Portfolio_Praveen/pull/2) in [lenkalapellypraveen/Portfolio_Praveen](https://github.com/lenkalapellypraveen/Portfolio_Praveen)
-5. 🎉 Merged PR [#1](https://github.com/lenkalapellypraveen/Portfolio_Praveen/pull/1) in [lenkalapellypraveen/Portfolio_Praveen](https://github.com/lenkalapellypraveen/Portfolio_Praveen)
+1. 🎉 Merged PR [#4](https://github.com/lenkalapellypraveen/Portfolio_Praveen/pull/4) in [lenkalapellypraveen/Portfolio_Praveen](https://github.com/lenkalapellypraveen/Portfolio_Praveen)
+2. 💪 Opened PR [#4](https://github.com/lenkalapellypraveen/Portfolio_Praveen/pull/4) in [lenkalapellypraveen/Portfolio_Praveen](https://github.com/lenkalapellypraveen/Portfolio_Praveen)
+3. 🎉 Merged PR [#3](https://github.com/lenkalapellypraveen/Portfolio_Praveen/pull/3) in [lenkalapellypraveen/Portfolio_Praveen](https://github.com/lenkalapellypraveen/Portfolio_Praveen)
+4. 💪 Opened PR [#3](https://github.com/lenkalapellypraveen/Portfolio_Praveen/pull/3) in [lenkalapellypraveen/Portfolio_Praveen](https://github.com/lenkalapellypraveen/Portfolio_Praveen)
+5. 🎉 Merged PR [#2](https://github.com/lenkalapellypraveen/Portfolio_Praveen/pull/2) in [lenkalapellypraveen/Portfolio_Praveen](https://github.com/lenkalapellypraveen/Portfolio_Praveen)
 <!--END_SECTION:activity-->
 
 ## 🎓 Education & Certifications
