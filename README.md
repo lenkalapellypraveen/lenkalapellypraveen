@@ -17,7 +17,7 @@ Demonstrated success in transforming heterogeneous data streams into analytics-r
 - 🌱 I'm learning GenAI, Agentic AI frameworks, LLM fine-tuning with PEFT/LoRA, and prompt engineering for enterprise data applications.
 - 👯 I'm looking to collaborate on open-source healthcare and financial ML projects utilizing multimodal models and real-time serving architectures.
 - 💬 Ask me about Advanced ML modeling, MLOps best practices, Python data stack, statistical analysis, NLP, and data pipeline optimization.
-- 📩 How to reach me: [praveen.lenkalapelly9@gmail.com](mailto:praveen.lenkalapelly9@gmail.com)
+- 📩 How to reach me: [praveen.lenkalapellyusa@gmail.com](mailto:praveen.lenkalapellyusa@gmail.com)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="16" height="16" style="vertical-align: text-bottom;"> Connect: [LinkedIn](https://www.linkedin.com/in/praveen-lenkalapelly/) | Let's discuss data science opportunities!
   
 ## 🚀 Featured Projects
@@ -221,7 +221,7 @@ Demonstrated success in transforming heterogeneous data streams into analytics-r
 ## 🎓 Education & Certifications
 
 - 🎓 **Masters in Data Science** - Florida Atlantic University (2023 - 2024)
-- 🎓 **Bachelors in Electronics and Communication Engineering** - GRIET (2017 - 2021)
+- 🎓 **Bachelors in Electronics and Communication Engineering** - GRIET (2016 - 2020)
 
 <div align="center">
   
