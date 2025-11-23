@@ -1,16 +1,17 @@
 # Hi there, I'm Praveen Lenkalapelly 👋
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Data%20Scientist-2978B5?style=for-the-badge" alt="Data Scientist Badge"/>
   <img src="https://img.shields.io/badge/-Data%20Engineer-C45427?style=for-the-badge" alt="Machine Learning Badge"/>
-  <img src="https://img.shields.io/badge/-AI%20Engineer-6F42C1?style=for-the-badge" alt="Deep Learning Badge"/>
   <img src="https://img.shields.io/badge/-Machine%20Learning%20Engineer-16A085?style=for-the-badge" alt="Machine Learning Badge"/>
+  <img src="https://img.shields.io/badge/-Data%20Scientist-2978B5?style=for-the-badge" alt="Data Scientist Badge"/>
+  <img src="https://img.shields.io/badge/-AI%20Engineer-6F42C1?style=for-the-badge" alt="Deep Learning Badge"/>
   <img src="https://img.shields.io/badge/-Cloud%20Engineer-607D8B?style=for-the-badge" alt="Cloud Engineering Badge"/>
 </div>
 
 ## 📊 About Me
 
-Research-oriented Data Scientist with 4+ years of experience implementing statistical models and ML algorithms across healthcare and financial sectors. Proficient in Python, mathematical modeling, and cloud technologies with proven success translating complex data into actionable insights for cross-functional teams.
+Senior Data Engineer with 5 years of experience architecting cloud-based data pipelines and platforms. Expertise in building scalable ETL workflows and production-grade Python code on AWS and Docker infrastructures supports robust, graph-centric pipelines.
+Demonstrated success in transforming heterogeneous data streams into analytics-ready knowledge graphs, driving measurable business impact and advanced ML solutions.
 
 - 🔭 I'm currently working on a personalized recommendation system using LLMs and retrieval-augmented generation with LangChain and vector databases (Pinecone, Weaviate) for domain-specific applications.
 - 🌱 I'm learning GenAI, Agentic AI frameworks, LLM fine-tuning with PEFT/LoRA, and prompt engineering for enterprise data applications.
