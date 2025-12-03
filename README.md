@@ -211,8 +211,8 @@ Demonstrated success in transforming heterogeneous data streams into analytics-r
 
 ## 🏆 Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](undefined) in [lenkalapellypraveen/Portfolio_Praveen](https://github.com/lenkalapellypraveen/Portfolio_Praveen)
-2. 💪 Opened PR [#2](https://github.com/lenkalapellypraveen/Fuel-Sales-Time-Series-Forecasting-System/pull/2) in [lenkalapellypraveen/Fuel-Sales-Time-Series-Forecasting-System](https://github.com/lenkalapellypraveen/Fuel-Sales-Time-Series-Forecasting-System)
+1. ❌ Merged PR [#5](undefined) in [lenkalapellypraveen/Portfolio_Praveen](https://github.com/lenkalapellypraveen/Portfolio_Praveen)
+2. 💪 Opened PR [#5](undefined) in [lenkalapellypraveen/Portfolio_Praveen](https://github.com/lenkalapellypraveen/Portfolio_Praveen)
 3. 🎉 Merged PR [#1](https://github.com/lenkalapellypraveen/Fuel-Sales-Time-Series-Forecasting-System/pull/1) in [lenkalapellypraveen/Fuel-Sales-Time-Series-Forecasting-System](https://github.com/lenkalapellypraveen/Fuel-Sales-Time-Series-Forecasting-System)
 4. 💪 Opened PR [#1](https://github.com/lenkalapellypraveen/Fuel-Sales-Time-Series-Forecasting-System/pull/1) in [lenkalapellypraveen/Fuel-Sales-Time-Series-Forecasting-System](https://github.com/lenkalapellypraveen/Fuel-Sales-Time-Series-Forecasting-System)
 5. 🎉 Merged PR [#2](https://github.com/lenkalapellypraveen/Portfolio_Praveen/pull/2) in [lenkalapellypraveen/Portfolio_Praveen](https://github.com/lenkalapellypraveen/Portfolio_Praveen)
